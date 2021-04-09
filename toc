@@ -1,0 +1,40 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+{: .toc subcollection="cloud-for-education" category="compute" audience="service" href="/docs/cloud-for-education?topic=cloud-for-education-getting-started" path="cloud-for-education"}
+IBM Cloud for Education
+
+    {: .navgroup id="learn"}
+    {: topicgroup} 
+    Getting started
+      getting-started-applications-lab.md
+      getting-started-virtual-course-credit.md
+    {: .navgroup-end}
+
+    {: .navgroup id="howto"}
+    login.md
+    make-reservation.md
+    access-storage.md
+    access-lite-plan-env.md
+   
+    {: .topicgroup}
+    Managing Images
+        image-create-update.md
+        image-config-setting.md
+        addto-image-pool.md
+        grant-access-to-customized-image.md
+    {: .navgroup-end}
+
+    {: .navgroup id="reference"}
+    ha-dr.md
+    iam.md
+    
+    {: .topicgroup}
+    Enhancing security
+        architecture-workload-isolation.md
+        data-security.md
+    {: .navgroup-end}
+
+    {: .navgroup id="help"}
+    [Help](https://cloud.ibm.com/unifiedsupport/supportcenter)
+    faq.md
+    {: .navgroup-end}
