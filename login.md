@@ -37,5 +37,9 @@ subcollection: cloud-for-education
 
 4. Provide the login information according to the instruction: 
    - For IBMid, follow the instructions to input your IBMid username and password to login.
-   - For University ID, choose the university/institution you belong to, and follow the instructions to input your username and password to login.
+   - For University ID, choose the university/institution you belong to, and follow the instructions
+     to input your username and password to login.
+   - For Local login, input your username and password to login.
+
+   ![local](images/login_local.png)
 
