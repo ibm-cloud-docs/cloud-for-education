@@ -24,10 +24,16 @@ subcollection: cloud-for-education
 # Accessing Applications Lab Lite Plan environment
 {: #access-lite-plan-env}
 
-You can launch the Applications Lab URL thru Resource List after you create the lite plan instance, and launch the Applications Lab instance from the detail page. Or you can launch the Applications Lab URL directly. 
+1. You can launch the Applications Lab URL through Resource List after you create the lite plan
+   instance.
 
+![lite](images/lite.png)
 
-Application Lab URL: https://app.education.cloud.ibm.com/
+2. Launch the Applications Lab instance from the detail page. Or you can launch the Applications Lab
+   URL directly at https://app.education.cloud.ibm.com/
 
+![launch](images/launch.png)   
 
-Once you login, you can start to make reservation by click on "New reservation" button. 
+3. Choose ***IBMid Login*** and follow the instruction to login.
+
+![login](images/ibmlogin.png)  
