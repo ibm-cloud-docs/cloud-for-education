@@ -26,16 +26,16 @@ subcollection: cloud-for-education
 
 1. Access https://app.education.cloud.ibm.com/ from your preferred browser.
 
-2. Select **authentication method**. 
+1. Select **authentication method**. 
    - If you use IBM Cloud/IBM w3 account to login, choose **Login with IBMid**.
    - If you use Institution/University ID to login, choose **Login with University ID**.
    - If you use Applications Labs own ID to login, choose **Local Login**.
 
-3. Click **Proceed to Login**.
+1. Click **Proceed to Login**.
 
  ![Login](images/login_main.png)
 
-4. Provide the login information according to the instruction: 
+1. Provide the login information according to the instruction: 
    - For IBMid, follow the instructions to input your IBMid username and password to login.
    - For University ID, choose the university/institution you belong to, and follow the instructions
      to input your username and password to login.
