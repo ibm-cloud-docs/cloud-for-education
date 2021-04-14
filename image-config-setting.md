@@ -24,8 +24,7 @@ subcollection: cloud-for-education
 # Configuring Image Setting and Deleting Image
 {: #image-config-delete}
 
-1. Choose **Manage Images** and **Manage Image Profiles**, you will see the list of image belong to
-   you (you are the image owner/admin). 
+1. Choose **Manage Images** and **Manage Image Profiles**, you will see the list of image belong to you (you are the image owner/admin). 
 
 ![edit](images/editImage.png)
 
