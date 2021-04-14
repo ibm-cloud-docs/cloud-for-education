@@ -51,9 +51,7 @@ special image or images, and only want them to be used by a restricted group of 
 
 ![image2](images/imageType.png)
 
-1.  Use the same way in [Adding Image to Image
-    Pool](/docs/cloud-for-education?topic=cloud-for-education-creating-updating-images) to add
-    target images to your new image group. 
+1.  Use the same way in [Adding Image to Image Pool](/docs/cloud-for-education?topic=cloud-for-education-creating-updating-images) to add target images to your new image group. 
 
 1.	Send your user group name and image group name to **cldedu@us.ibm.com**. We will assign proper resource mapping.
 

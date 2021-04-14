@@ -30,7 +30,6 @@ subcollection: cloud-for-education
 
 ![group1](images/addImage.png)
 
-
 1.  Choose **Group by Image**, then choose **Your-Image** for Image, click  **Get Groups**.
     Available groups should be shown on **Groups Your-Image is not in**. Select
     **Your institution name-Images**, then click **Add** button. Then you should be
