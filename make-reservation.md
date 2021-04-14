@@ -29,10 +29,11 @@ subcollection: cloud-for-education
 2. Click "Reservations", then click "New Reservation"
 ![reservation01](images/MakeReservation01.png)
 
-3. Create Reseveration 
+3. Create Reservation 
    - Choose the environment you want to use from the list. If you are not able to access any computing environment/images, please contact support.
    - Choose when you want to start to use the environment, and duration for this reservation. If you need more duration for the reservation time than the duration given on the dropdown options, please contact support.
    - Click "Create Reservation"
+
 ![Reservation02](images/MakeReservation02.png)
 
 4. Wait while the system provisioning the environment.

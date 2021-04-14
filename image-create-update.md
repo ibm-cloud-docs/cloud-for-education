@@ -32,16 +32,16 @@ subcollection: cloud-for-education
 
 ![reservation](images/reservation.png)
 
-2. If the image has several versions, you need to select the version you would like to choose, otherwise, system will choose the version in production.
+1. If the image has several versions, you need to select the version you would like to choose, otherwise, system will choose the version in production.
 
 ![version](images/chooseversion.png)
 
-3. After login the VM and performing operations (you need to login the VM to see the button
+1. After login the VM and performing operations (you need to login the VM to see the button
    refreshed on website), you can click **End Reservation & Create Image** (privilege required).
 
 ![create](images/createUpdate1.png)   
 
-4. You can choose **Creating new image** or **Update Existing Image** (Need to be the owner of this image.).
+1. You can choose **Creating new image** or **Update Existing Image** (Need to be the owner of this image.).
  
   If you create new image, the new image will be independent from the old one. You can configure image for different name, description, memory size, and etc. You can also assign the new image to different user group to use.
  
@@ -55,6 +55,9 @@ subcollection: cloud-for-education
 
 ![create2](images/create1.png)  
 
+  - If you choose to update the image, you need to fill the comment for this version, then click
+    **Submit**.
+  
 ![create2](images/create2.png)
 
-  - If you choose to update the image, you need to fill the comment for this version, then click **Submit**.
+  

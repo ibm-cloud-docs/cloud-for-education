@@ -29,11 +29,11 @@ subcollection: cloud-for-education
 
 ![lite](images/lite.png)
 
-2. Launch the Applications Lab instance from the detail page. Or you can launch the Applications Lab
+1. Launch the Applications Lab instance from the detail page. Or you can launch the Applications Lab
    URL directly at https://app.education.cloud.ibm.com/
 
 ![launch](images/launch.png)   
 
-3. Choose ***IBMid Login*** and follow the instruction to login.
+1. Choose ***IBMid Login*** and follow the instruction to login.
 
 ![login](images/ibmlogin.png)  

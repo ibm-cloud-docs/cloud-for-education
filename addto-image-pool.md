@@ -24,9 +24,16 @@ subcollection: cloud-for-education
 # Adding New Image into Image Pool
 {: #addto-image-pool}
 
-1.	When created an new image (not updated image), if this image require virtual machine with less 4 CPU cores and 8 GB memory size, you can add this image to your institute image pool. This image will be available to all your institute users.
+1.	When created a new image (not updated image), if this image require virtual machine with less 4 CPU cores and 8 GB memory size, you can add this image to your institute image pool. This image will be available to all your institute users.
 
-2.	Select **Edit Grouping & Mapping** from **Manage Images**.
+1.	Select **Edit Grouping & Mapping** from **Manage Images**.
 
-3.	Choose **Group by Group**, then choose **Your institution name-Images** for Group, click  **Get Images**. Your images should be shown on **Images not in Your institution name-Images**. Select images you want to add to **Your institution name-Images**, then click **Add** button. Then you should be able to reserve your new image.
+![group1](images/addImage.png)
+
+
+1.  Choose **Group by Image**, then choose **Your-Image** for Image, click  **Get Groups**.
+    Available groups should be shown on **Groups Your-Image is not in**. Select
+    **Your institution name-Images**, then click **Add** button. Then you should be
+    able to reserve your new image.
   
+![group2](images/addGroup.png)

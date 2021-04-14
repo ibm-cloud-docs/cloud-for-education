@@ -24,10 +24,12 @@ subcollection: cloud-for-education
 # Configuring Image Setting and Deleting Image
 {: #image-config-delete}
 
-1. Choose **Manage Images** and **Manage Image Profiles**, you will see the list of image belong to you (you are the image owner). IBM Cloud for Education Applications Lab only allow one owner for each image. Therefore one user cannot change the setting for the image belong to another user even they both has image admin privilege. If one user want to use someone else's image, the user can create an new image from that image.
+1. Choose **Manage Images** and **Manage Image Profiles**, you will see the list of image belong to
+   you (you are the image owner/admin). 
 
+![edit](images/editImage.png)
 
-2. Click **Edit** button, you can edit the configuration of the image. It defines the number of CPU cores, size of the memory. We recommend to use 2000 as CPU speed.
+1. Click **Edit** button, you can edit the configuration of the image. It defines the number of CPU cores, size of the memory. We recommend to use 2000 as CPU speed.
 
    - The name will be displayed on the drop-down menu when users select **Image**. Please use names that are easy to understand for users, such as software name and version, class name and code etc.
 
@@ -39,9 +41,16 @@ subcollection: cloud-for-education
 
    - **Available for checkout** should be selected if the image is ready for students. Otherwise, students cannot see this image.
 
-   - **Revision** indicates the different versions this image has. You can have comments for each version, and select one version as production version, and delete any unwanted version. Production version will be automatically chosen when students reserve this image.
+   - **Revision** indicates the different versions this image has. You can have comments for each
+     version, and select one version as production version, and delete any unwanted version.
+     Production version will be automatically chosen when students reserve this image.
+     You can delete any revisions 
+
+     ![delete1](images/revision.png)
 
   - Each image has **delete** button for deleting entire image.
+
+  ![delete1](images/deleteImage.png)
 
 
 
