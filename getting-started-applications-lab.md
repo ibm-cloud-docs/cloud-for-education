@@ -42,6 +42,9 @@ Planning for the  total number of vCPU and RAM required by defining the number 
 {: tip}
 The number of maximum concurrent users usually depend on the total number of users, the number of concurrent classes, or the number of students in classes.
 
+{: tip}
+Maximum Concurrent User per month: the highest number of VMs running at the same time during the given month.
+
 Following is the t-shirt size configuration for regular Virtual Machine which is available in the Base Plan:
 - A regular VM size:  2 * vCPU, RAM: 8GB, Disk Size: 200 GB
 - Total number of vCPU cores = 2 Cores x the number of concurrent users
@@ -79,4 +82,12 @@ The specific configuration of VM (e.g. vCPU cores, memory size, disk size) is fl
 ## Next steps
 {: #next-step}
 
-Once the order is placed, our service team will reach out and complete all the environment setup tasks including: Federated Identity Access, BYO Software Licenses requirement and bandwidth requirement. 
+Activities to complete "Pending for Provisioning":
+
+Our support engineer will reach out to client through email to confirm the authentication method to prepare client’s access to Applications Lab. Following is the activities included to complete the provision request.
+
+1. Setup authentication method: client can request to integrate with client’s LDAP/Directory Server for faculties and students authentication.
+2. Configure the access control policy for users.
+
+{: tip}
+The duration of the setup usually will take up to few hours for non-LDAP integration and for LDAP integration it may take up to a few days.
