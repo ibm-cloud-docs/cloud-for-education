@@ -61,12 +61,12 @@ When you have completed this code pattern, you will understand how to:
 [![](https://user-images.githubusercontent.com/8854447/72086129-6eb48000-32d4-11ea-8869-d6362dd7556a.png)](https://youtu.be/tfnRfDFWHUc)
 
 The code pattern is seperated into these sections: 
-1. [Clone the repo](https://github.com/IBM/Blockchain-for-maintaining-Digital-Assets#1-clone-the-repo)
-2. [Package the smart contract](https://github.com/IBM/Blockchain-for-maintaining-Digital-Assets#2-package-the-smart-contract)
-3. [Create the Mailtrap server](https://github.com/IBM/Blockchain-for-maintaining-Digital-Assets#3-create-the-mailtrap-server)
-4. [Build a network](https://github.com/IBM/Blockchain-for-maintaining-Digital-Assets#4-build-a-network)
-5. [Deploy Blockchain for maintaining Digital Assets Smart Contract on the network](https://github.com/IBM/Blockchain-for-maintaining-Digital-Assets#5-deploy-blockchain-for-maintaining-digital-assets-smart-contract-on-the-network)
-6. [Connect application to the network](https://github.com/IBM/Blockchain-for-maintaining-Digital-Assets#6-connect-application-to-the-network)
-7. [Run the application](https://github.com/IBM/Blockchain-for-maintaining-Digital-Assets#7-run-the-application)
+1. [Clone the repo](https://github.com/ibm-workshop/bda#1-clone-the-repo)
+2. [Package the smart contract](https://github.com/ibm-workshop/bda#2-package-the-smart-contract)
+3. [Create the Mailtrap server](https://github.com/ibm-workshop/bda#3-create-the-mailtrap-server)
+4. [Build a network](https://github.com/ibm-workshop/bda#4-build-a-network)
+5. [Deploy Blockchain for maintaining Digital Assets Smart Contract on the network](https://github.com/ibm-workshop/bda#5-deploy-blockchain-for-maintaining-digital-assets-smart-contract-on-the-network)
+6. [Connect application to the network](https://github.com/ibm-workshop/bda#6-connect-application-to-the-network)
+7. [Run the application](https://github.com/ibm-workshop/bda#7-run-the-application)
 
 More background and information can be found within the Github repository.
