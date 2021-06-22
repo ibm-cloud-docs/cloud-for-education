@@ -8,6 +8,7 @@ IBM Cloud for Education
     Getting started
       getting-started-applications-lab.md
       getting-started-virtual-course-credit.md
+      getting-started-blockchain-platform.md
     {: .navgroup-end}
 
     {: .navgroup id="howto"}
