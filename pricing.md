@@ -4,7 +4,7 @@ copyright:
   years: 2021
 lastupdated: "2021-08-19"
 
-keywords: bug, problem, faqs, Frequently Asked Questions, question
+keywords: pricing, plan, metering, concurrent user
 
 subcollection: cloud-for-education
 
@@ -13,7 +13,7 @@ subcollection: cloud-for-education
 {:shortdesc: .shortdesc}
 {:new_window: target="_blank"}
 {:codeblock: .codeblock}
-{:faq: data-hd-content-type='faq'}
+
 
 # Pricing
 {: #pricing}
