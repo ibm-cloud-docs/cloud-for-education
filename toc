@@ -26,6 +26,7 @@ IBM Cloud for Education
     {: .navgroup-end}
 
     {: .navgroup id="reference"}
+    pricing.md
     ha-dr.md
     iam.md
     
