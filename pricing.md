@@ -37,10 +37,10 @@ The Lite plan is free for users who are looking to try out IBM Cloud for Educati
 This plan offers charge based on the maximum number of virutal server (also known as Concurrent User) provisioned at any moment of the given month. 
 
 The total capacity offered are:
-A regular VM size: 2 * vCPU, RAM: 8GB, Disk Size: 200 GB
-Total number of vCPU cores = 2 Cores x the number of concurrent virtual server instance(concurrent user)
-Total memory size = 8 GB x the number of concurrent virutal server instance(concurrent user)
-Total disk size = 200 GB x the number of concurrent virtual server instance concurrent user)
+- A regular VM size: 2 * vCPU, RAM: 8GB, Disk Size: 200 GB
+- Total number of vCPU cores = 2 Cores x the number of concurrent virtual server instance(concurrent user)
+- Total memory size = 8 GB x the number of concurrent virutal server instance(concurrent user)
+- Total disk size = 200 GB x the number of concurrent virtual server instance concurrent user)
 
 **Pricing** (billed monthly)
 - Tier 1: $75/concurrent virtual server instance for the first 1-49 virtual server instances
@@ -81,7 +81,7 @@ This plan offers charge based on the total number of virutal server instance run
 A plan that offers a vGPU support for VSI reservation and charge based on the maximum number of virutal server (also known as Concurrent User) provisioned at any moment of the given month. 
 
 The total capacity offered are:
-A vGPU VM size: 4 * vCPU, RAM: 16GB , vGPU: 1GB GPU memory, Disk Size: 200 GB
+- A vGPU VM size: 4 * vCPU, RAM: 16GB , vGPU: 1GB GPU memory, Disk Size: 200 GB
 
 **Pricing** (billed monthly)
 - Tier 1: $150/concurrent virtual server instance for the first 1-49 virtual server instances
