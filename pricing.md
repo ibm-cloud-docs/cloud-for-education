@@ -55,7 +55,7 @@ The total capacity offered are:
 - Tier 8: $52.50/concurrent VSI for additional virtual servers passing 3,000
 
 **Additional Persistent Storage** 
-- $2 per 10 GB per user per month 
+- $4 per 10 GB per user per month 
 
 ## Base Flex (Per User)
 {: #baseflexPerUser}
