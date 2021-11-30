@@ -24,7 +24,7 @@ Review frequently asked questions for IBM Cloud for Educaiton in {{site.data.key
 ## What happens after I create my service instance?
 {: #faq-create-instance}
 {: faq}
-After you create your service instance order for IBM Cloud For Education, your service instance should be shown on the Resource List and the status of your service instance is "Provision in progress". It means that your have submitted successfully your order and our backend engineer needs to review your order and we might need to reach out to you with some detail questions on your VM envrionment configuration so we can setup the VM image correctly. Following is the sample questions we'll need your input:
+After you create your service instance order for IBM Cloud For Education, your service instance should be shown on the Resource List and the status of your service instance is "Provision in progress". It means that your have submitted successfully your order and our backend engineer needs to review your order and we might need to reach out to you with some detail questions on your VM environment configuration so we can setup the VM image correctly. Following is the sample questions we'll need your input:
 
 - The name of your institution
 - How many potential users will use Applications Lab? (E.g. the size of your institution)
@@ -38,7 +38,7 @@ Once we gather all the information, our engineer will setup and configuration yo
 ## When I order "Applications Lab Base Flex Plan",  by default, each authorized user is entitled for one VM, what if one authorized user provision two VMs, how many authorized user will be charged in such cases?
 {: #faq-Base-Flex-Plan}
 {: faq}
-##"Applications Lab Base Flex Plan" e.g per authorized user plan only support maximum one reservation at a time. If you want to have mutiple reservations at the same time, please use other plans or use mutiple accounts.
+##"Applications Lab Base Flex Plan" e.g per authorized user plan only support maximum one reservation at a time. If you want to have multiple reservations at the same time, please use other plans or use mutiple accounts.
 
 ## What happens when I delete my service instance?
 {: #faq-delete-instance}
