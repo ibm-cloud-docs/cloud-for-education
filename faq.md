@@ -35,7 +35,7 @@ After you create your service instance order for IBM Cloud For Education, your s
 
 Once we gather all the information, our engineer will setup and configuration your instance env and once it is completed, the instance status will be set to "Active", and billing will start for that month based on the plan you ordered.  
 
-## When I order "Applications Lab Base Flex Plan",  by default, each authorized user is entitled for one VM, what if one authorized user provision two VMs, how many authorized user will be charged in such cases?
+## When I order "Base Flex Plan", it says each authorized user entitled for one VM, what if user needs to provision more than one VM? 
 {: #faq-Base-Flex-Plan}
 {: faq}
 ##"Applications Lab Base Flex Plan" e.g per authorized user plan only support maximum one reservation at a time. If you want to have multiple reservations at the same time, please use other plans or use mutiple accounts.
@@ -45,17 +45,17 @@ Once we gather all the information, our engineer will setup and configuration yo
 {: faq}
 The service instance will not appear on Resource List and billing of the instance stops from next month. IBM Cloud retains the service instance for 7 days and in case you need to restore the same instance back, please raise a support ticket for "IBM Cloud for Education" in 7 days upon deleting instance from IBM Cloud UI. After 7 days, the service instance will be deleted permanently and can no longer be restored. 
 
-## Can't Submit block allocation request 
+## Can't submit block allocation request?
 {: #faq-BlockAllocation-Req}
 {: faq}
 Please make sure that "First Date of Usage" is later than the current time. The time zone by default is UTC. 
 
-## which model of GPU cards are installed on the servers?
+## Which model of GPU cards are installed on the servers?
 {: #faq-GPU-Model-Supported}
 {: faq}
 Nvidia V100 is used. Customers cannot access GPU directly, and can only access virtual GPU virtualized from V100. 
 
-## Do you support OS not shown in the image library like Ubuntu 20 etc?
+## Do you support Operating Systems not shown in the image library, like Ubuntu 20 etc?
 {: #faq-OS-Supported}
 {: faq}
-Yes. We are able to support the most popular OS in the market, please submit a ticket or click on the help to share with us the configuration detail. 
+Yes. We are able to support the most popular Operating Systems in the market, please submit a ticket or click on the help to send us the configuration detail. 
