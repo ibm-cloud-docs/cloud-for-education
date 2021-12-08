@@ -32,6 +32,8 @@ To ensure that you can securely manage your data when you use IBM Cloud for Educ
 
 IBM Cloud for Education Applications Lab store data in IBM Cloud Object storage and block storage. Virtual machine images are stored in IBM Cloud Object Storage, and IBM managed key with AES256 is used for encryption. Personal persistent storage is running on IBM VPC gen2 block storage, and IBM managed key with AES256 is used for encrption.
 
+IBM Cloud for Education Applications Lab store data in IBM Cloud Object storage and block storage. Virtual machine images are stored in IBM Cloud Object Storage, and IBM managed key with AES256 is used for encryption. Personal persistent storage is running on IBM VPC Gen2 block storage, IBM managed key with AES256 is used for data encryption, and all data have three replicas in three zones(/docs/overview?topic=overview-locations) in MZR(/docs/overview?topic=overview-locations) to maintain high availability.
+
 ## Deleting your data in IBM Cloud for Education Applications Lab
 {: #data-delete}
 
