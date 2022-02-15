@@ -37,7 +37,7 @@ The base images offered as part of the service or the ones created by the facult
 
 In the case of a single zone failure in a multi-zone region or a hardware failure in any region, virtual software images (base image) and data stored in Network File Storage are still accessible as it is replicated onto other zones.
 
-## BareMetl Server High-Availability
+## BareMetal Server High-Availability
 
 The BareMetal servers hosting the virtual machine instances are deployed over three different zones (data centers) in an IBM Cloud region. If one or two zones go down the VM provision service is still resilient and is available. 
 
