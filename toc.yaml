@@ -54,7 +54,7 @@ toc:
           - data-security.md
        
   - navgroup:
-      id: Help
+      id: help
       topics: 
       - faq.md
       - link: 
