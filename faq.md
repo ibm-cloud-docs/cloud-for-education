@@ -35,10 +35,27 @@ After you create your service instance order for IBM Cloud For Education, your s
 
 Once we gather all the information, our engineer will setup and configuration your instance env and once it is completed, the instance status will be set to "Active", and billing will start for that month based on the plan you ordered.  
 
+## What information is required from client to setup Federated Single Sign-On?
+{: #faq-setup-sso}
+{: faq}
+If clients choose to use federated ID authentication, clients need to provide following information:
+  1. Download Cloud for Education metadata from https://fed.education.cloud.ibm.com/simplesaml/module.php/saml/sp/metadata.php/default-sp 
+  2. Import the downloaded metadata to clients' federated server
+  3. Export and email clients' federated server metadata to eduhelp@ibm.com
+  4. Configure clinets' federated server to share the necessary attributes includes: email, first name, last name and user groups.
+
+## What information is required from client to setup VPN?
+{: #faq-setup-vpn}
+{: faq}
+If clients' VMs running on IBM Cloud for Education need to access resources on clients' internal network, such as clients' license servers, data etc, we can setup VPN to access clients' internal network, In order to setup VPN, clients need to provide following information to IBM:
+  * VPN account
+  * VPN connection information (e.g endpoint URL)
+  * The name of the image requiring VPN access
+
 ## When I order "Base Flex Plan", it says each authorized user entitled for one VM, what if user needs to provision more than one VM? 
 {: #faq-Base-Flex-Plan}
 {: faq}
-**Applications Lab Base Flex Plan** (a.k.a. per authorized user plan) allow maximum one reservation at a time. If you want to have multiple reservations at the same time, please use other plans or use mutiple accounts.
+**Applications Lab Base Flex Plan** (a.k.a. per authorized user plan) allows maximum one reservation at a time. If you want to have multiple reservations at the same time, please use other plans or use mutiple accounts.
 
 ## What happens when I delete my service instance?
 {: #faq-delete-instance}
