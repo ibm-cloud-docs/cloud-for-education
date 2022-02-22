@@ -39,11 +39,13 @@ Capacity Planning - decide the number of maximum concurrent user to purcahse:
 
 Planning for the  total number of vCPU and RAM required by defining the number of maximum concurrent users to purchase.
 
-{: tip}
-The number of maximum concurrent users usually depend on the total number of users, the number of concurrent classes, or the number of students in classes.
 
-{: tip}
+The number of maximum concurrent users usually depend on the total number of users, the number of concurrent classes, or the number of students in classes.
+{: note}
+
+
 Maximum Concurrent User per month: the highest number of VMs running at the same time during the given month.
+{: note}
 
 Following is the t-shirt size configuration for regular Virtual Machine which is available in the Base Plan:
 - A regular VM size:  2 * vCPU, RAM: 8GB, Disk Size: 200 GB
@@ -62,8 +64,8 @@ If you like to use SPSS only image, please choose the SPSS Plan:
 
 Additional Storage option are also available at t-shirt size (100GB/500GB/1000GB/2000GB)
 
-{: tip}
 The specific configuration of VM (e.g. vCPU cores, memory size, disk size) is flexible to change to meet your requirement. However the total concurrent resource consumption should be within total resource limitation.
+{: note}
 
 <!-- For each step in your tutorial, add an H2 section. The title should be task-oriented and descriptive. Recommendation is no more than 9 steps. -->
 
@@ -89,5 +91,5 @@ Our support engineer will reach out to client through email to confirm the authe
 1. Setup authentication method: client can request to integrate with client’s LDAP/Directory Server for faculties and students authentication.
 2. Configure the access control policy for users.
 
-{: tip}
 The duration of the setup usually will take up to few hours for non-LDAP integration and for LDAP integration it may take up to a few days.
+{: note}
