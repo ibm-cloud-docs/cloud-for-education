@@ -38,7 +38,7 @@ Once we gather all the information, our engineer will setup and configuration yo
 ## When I order "Base Flex Plan", it says each authorized user entitled for one VM, what if user needs to provision more than one VM? 
 {: #faq-Base-Flex-Plan}
 {: faq}
-##"Applications Lab Base Flex Plan" e.g per authorized user plan only support maximum one reservation at a time. If you want to have multiple reservations at the same time, please use other plans or use mutiple accounts.
+**Applications Lab Base Flex Plan** (a.k.a. per authorized user plan) allow maximum one reservation at a time. If you want to have multiple reservations at the same time, please use other plans or use mutiple accounts.
 
 ## What happens when I delete my service instance?
 {: #faq-delete-instance}
