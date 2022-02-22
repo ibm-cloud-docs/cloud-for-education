@@ -38,14 +38,9 @@ Credits can be purchased as via the IBM Cloud for Education Virtual Course Credi
 
 To purchase credits:
 1. Go to the Cloud for Education service 
-
 2. Select the IBM Cloud for Education Virtual Course Credit plan
-
 3. Provide a relevant service name. This will be used at a later stage to uniquely identify this instance of your credits  when being applied against your lab.
-
 4. Enter the amount of credits to be purchased in the _Virtual Course Credit Amount_ field. Make sure to take note of the pricing tiers when entering the amount to get the best value.
-
-  {: pre}
 
 ## How to activate Course Credits
 {: #activate_credit}
