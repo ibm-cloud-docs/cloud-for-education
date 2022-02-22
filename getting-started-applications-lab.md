@@ -28,8 +28,6 @@ Completion-time: 10m
 {: #getting-started-applications-lab}
 {: toc-content-type="tutorial"} 
 {: toc-services=""} 
-{: toc-completion-time="10m"}
-
 
 IBM Cloud for Education Applications Lab Provides a powerful customized portal for students & faculty members where applications images can be launched or accessed via a services catalogue on a single pane of glass. It is a public cloud service but able to integrate with academic institution's  private or on-premise lab environment as a hybrid compute model. Students and faculty members can access the virtual desktops and application from any place, any time and on any device. 
 
