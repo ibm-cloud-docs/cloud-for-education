@@ -13,7 +13,6 @@ account-plan: lite
 Completion-time: 10m
 
 ---
-
 {:shortdesc: .shortdesc}
 {:screen: .screen}  
 {:codeblock: .codeblock}  
